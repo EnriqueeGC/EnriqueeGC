@@ -4,6 +4,21 @@
 
 ##
 
+<div align="left">
+  <h3>About Me</h3>
+  <p>
+    I am a <strong>Fullstack Web Developer</strong> driven by a passion for building scalable, clean, and highly efficient digital solutions. My approach to development is rooted in the principles of <strong>Software Architecture</strong>, ensuring that every project I build is modular, maintainable, and ready to grow.
+  </p>
+
+  <p>
+    Beyond the web, I am a <strong>Python enthusiast</strong> with a deep interest in <strong>Computer Vision</strong>. I enjoy exploring the intersection of real-time image processing and embedded systems, constantly experimenting with ways to make hardware "see" and react to the world.
+  </p>
+
+  <p>
+    I am a <strong>Linux power user</strong> who thrives in terminal-centric workflows. I believe that a developer's environment should be a reflection of their own logic; I meticulously customize my workspace to eliminate friction and stay focused on what matters: <strong>solving complex problems with elegant code.</strong>
+  </p>
+</div>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
